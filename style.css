@@ -1,0 +1,21 @@
+a{
+    text-decoration: none;
+    color: gray;
+}
+.card_Tile{
+    border: 1px solid gray;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    padding: 30px;
+    
+}
+.event-details{
+    border: 1px solid gray;
+    border-radius: 15px;
+}
+.slick-track{
+    display: flex;
+   overflow-x: scroll;
+}
